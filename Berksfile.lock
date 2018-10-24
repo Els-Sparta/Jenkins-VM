@@ -1,0 +1,7 @@
+DEPENDENCIES
+  jenkins
+    git: https://github.com/Els-Sparta/Jenkins-Cookbook
+    revision: 0c9114d4e8cac1fca2c58b5f65a7f9421ee1f1f9
+
+GRAPH
+  jenkins (0.1.0)
